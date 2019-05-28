@@ -1,0 +1,12 @@
+.idea
+/__pycache__/
+__pycache__/
+*.py[cod]
+.env
+venv/
+uswgi.log
+uwsgi.pid
+uwsgi.ini
+/serverlog
+SQLite database files
+*.sqlite3
